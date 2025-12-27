@@ -69,7 +69,7 @@ python src/predict.py
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 SmartEnergyForecast/
