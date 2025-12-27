@@ -2,7 +2,7 @@
 
 **SmartEnergyForecast** is a robust machine learning pipeline designed to forecast daily peak active power demand for electrical feeders. It leverages XGBoost, historical hourly data, and advanced feature engineering to predict tomorrow's maximum load.
 
-## 📊 Project Highlights
+## Project Highlights
 - **Goal**: Predict Daily Peak Load (`P_total_max`) for 50+ feeders.
 - **Model**: Global XGBoost Regressor (trained across all feeders).
 - **Validation**: Walk-forward backtesting with strict leakage prevention.
