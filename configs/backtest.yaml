@@ -1,0 +1,7 @@
+
+backtest:
+  min_train_days: 60
+  step_size_days: 7
+  # Optional end_date, defaults to last available
+  # end_date: "2015-01-01" 
+  start_date: "2014-06-01" # Adjust based on data start
