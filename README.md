@@ -94,7 +94,7 @@ SmartEnergyForecast/
 └── requirements.txt
 ```
 
-## 🛡️ Robustness Features
+## Robustness Features
 *   **Leakage Prevention**: Validated `shift(1)` logic and strict temporal split checks in backtesting.
 *   **Anomaly Detection**: Automatically drops days where system-wide peak collapses (suspect data).
 *   **Dtype Safety**: Enforced string types for Feeder IDs to prevent mixed-type errors.
