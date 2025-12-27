@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 
 
