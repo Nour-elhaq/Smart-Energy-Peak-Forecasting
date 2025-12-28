@@ -98,3 +98,6 @@ SmartEnergyForecast/
 *   **Leakage Prevention**: Validated `shift(1)` logic and strict temporal split checks in backtesting.
 *   **Anomaly Detection**: Automatically drops days where system-wide peak collapses (suspect data).
 *   **Dtype Safety**: Enforced string types for Feeder IDs to prevent mixed-type errors.
+---
+[![DOI](https://zenodo.org/badge/1123804235.svg)](https://doi.org/10.5281/zenodo.18075994)
+
